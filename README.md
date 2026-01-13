@@ -1,22 +1,22 @@
-#You-ve-Got-Mail
+# You-ve-Got-Mail
 is a charming, interactive web-based digital greeting card or letter template designed with a "cute" aesthetic. It serves as a personal way to send messages, confessions or greetings.
 
-#Visuals
+# Visuals
 The site features a clean, likely pastel-themed interface centered around a "New Message" notification. It invites the user with a friendly greeting ("Hello, Cutie!") to open their messages.
 
-#Functionality
+# Functionality
 **Landing Page:** Display a notification card with a "Read Message" button.
 
-#Interactive Modal
+# Interactive Modal
 Clicking the button triggers a "Special Letter" pop-up overlay containing the sender's name, the message body, and a signature.
 
-#Footer Links
+# Footer Links
 "Privacy Policy" and "Terms & Conditions" which open varying modals with lighthearted, thematic text (e.g., "Your cuteness is safe with us!").
 
-#Tech Stack
+# Tech Stack
 Built with HTML, CSS (with tailwindcss), and JavaScript.
 
-##New Features (Coming Soon)
+## New Features (Coming Soon)
 * Dynamic Content via URL Parameters
 Idea: Allow users to customize the message without editing the code. By Using URL parameters(e.g., website.app/?to=Name&msg=I+Love+You), the text can be dynamically replaced.
 Benefit: Makes it instantly usable for anyone to send their own specific letters just by sharing a custom link.
